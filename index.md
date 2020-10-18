@@ -2,12 +2,23 @@
 tags: [home]
 ---
 
-# Neuron Template
+# IoT-Zettelkasten
 
-You are viewing a template site, generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+Experimenteller Zettelkasten für alles was mit IoT zu tun hat.
 
-Get started by reading [[[README]]].
+## Wie funktioniert das?
 
-Other pages on this zettelkasten (this demonstrates how to use [link queries](https://neuron.zettel.page/link-query.html)):
+* Zettel sind als Gists auf Github gespeichert.
+* Dieser Zettelkasten basiert auf dem [Neuron Template](https://github.com/srid/neuron-template).
+* Die Software [neuron](https://neuron.zettel.page/) generiert aus den Gists eine Webseite & publiziert sie mittels [GitHub Pages](https://pages.github.com/)
 
+## Howto
+
+* [[[README]]].
+
+## Links
+
+* Verknüpfunge kann man mit Hilfe von [Link Queries](https://neuron.zettel.page/link-query.html) erstellen.
+
+[[[z:zettels?tag=iot]]]
 [[[z:zettels?tag=other]]]
