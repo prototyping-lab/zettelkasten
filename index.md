@@ -20,5 +20,6 @@ Experimenteller Zettelkasten für alles was mit IoT zu tun hat.
 
 * Verknüpfunge kann man mit Hilfe von [Link Queries](https://neuron.zettel.page/link-query.html) erstellen.
 
-[[[z:zettels?tag=iot]]]
-[[[z:zettels?tag=other]]]
+[[[z:zettels?tag=wissen]]]
+[[[z:zettels?tag=werkzeug]]]
+[[[z:zettels?tag=material]]]
