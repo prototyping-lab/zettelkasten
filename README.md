@@ -1,3 +1,10 @@
+# Zettelkasten
+
+Experimenteller Zettelkasten.
+
+* Zum Editieren die [Cerveau.app](https://neuron.zettel.page/cerveau.html) nutzen.
+* Login [hier](https://www.cerveau.app/-/prototyping-lab/zettelkasten/).
+
 # How to publish your own [neuron] site
 
 [neuron] is a note-taking app optimized for publishing, and you can use this template repository to get started with [publishing](https://neuron.zettel.page/778816d3.html) your own neuron site that looks like [one of these][examples].
