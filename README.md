@@ -4,6 +4,7 @@ Experimenteller Zettelkasten.
 
 * Zum Editieren die [Cerveau.app](https://neuron.zettel.page/cerveau.html) nutzen.
 * Login [hier](https://www.cerveau.app/-/prototyping-lab/zettelkasten/).
+* [FAQ](faq)-Zettel
 
 # How to publish your own [neuron] site
 
