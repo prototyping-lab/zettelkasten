@@ -4,13 +4,14 @@ tags: [home]
 
 # IoT-Zettelkasten
 
-Experimenteller Zettelkasten für alles was mit IoT zu tun hat.
+* Experimenteller Zettelkasten für alles was mit IoT zu tun hat.
+* Dieser Zettelkasten basiert auf dem [Neuron Template](https://github.com/srid/neuron-template).
 
 ## Wie funktioniert das?
 
-* Zettel sind als Gists auf Github gespeichert.
-* Dieser Zettelkasten basiert auf dem [Neuron Template](https://github.com/srid/neuron-template).
-* Die Software [neuron](https://neuron.zettel.page/) generiert aus den Gists eine Webseite & publiziert sie mittels [GitHub Pages](https://pages.github.com/)
+* Zettel sind als Markdown-Files in einem Github-Repo gespeichert.
+* Die Software [neuron](https://neuron.zettel.page/) generiert aus den Markdown-Snippets eine Webseite & publiziert sie mittels [GitHub Pages](https://pages.github.com/)
+* Das Ergebnis erscheint [hier](https://prototyping-lab.github.io/zettelkasten/) auf Github.
 
 ## Howto
 
